@@ -29,6 +29,9 @@ if (!isset($_SESSION['auth'])) {
         <li class="nav-item">
           <a class="nav-link" href="/reminders/index">Reminders</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/reports/index">Reports</a>
+        </li>
       </ul>
     </div>
   </div>
